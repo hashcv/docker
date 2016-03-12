@@ -11,6 +11,8 @@ Username admin
 
 Password admin123
 
+Create repository docker hosted with Repository Connector for https - 18443.
+
 
 vi /etc/sysconfig/docker
 
