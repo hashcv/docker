@@ -27,9 +27,9 @@ admin
 admin123
 
 
-
-docker tag container_id 127.0.0.1:18443/nexus3
+<code>
+docker tag image_id 127.0.0.1:18443/nexus3
 
 docker push 127.0.0.1:18443
-
+</code>
 
